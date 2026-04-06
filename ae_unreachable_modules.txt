@@ -1,0 +1,15 @@
+Modules unreachable from YangMills.lean:
+YangMills.Algebra.MatrixFoundation	YangMills/Algebra/MatrixFoundation.lean
+YangMills.Geometry.Currents	YangMills/Geometry/Currents.lean
+YangMills.Geometry.Decomposition	YangMills/Geometry/Decomposition.lean
+YangMills.Geometry.DistributionalWillmore	YangMills/Geometry/DistributionalWillmore.lean
+YangMills.Geometry.Integrability	YangMills/Geometry/Integrability.lean
+YangMills.Geometry.IntegralCurrents	YangMills/Geometry/IntegralCurrents.lean
+YangMills.Geometry.MassGapConclusion	YangMills/Geometry/MassGapConclusion.lean
+YangMills.Geometry.MasterTheorem	YangMills/Geometry/MasterTheorem.lean
+YangMills.Geometry.Monotonicity	YangMills/Geometry/Monotonicity.lean
+YangMills.Geometry.Orthogonality	YangMills/Geometry/Orthogonality.lean
+YangMills.Geometry.Renormalization	YangMills/Geometry/Renormalization.lean
+YangMills.Geometry.Semicontinuity	YangMills/Geometry/Semicontinuity.lean
+YangMills.Geometry.Stratification	YangMills/Geometry/Stratification.lean
+YangMills.Geometry.VertexCounterterm	YangMills/Geometry/VertexCounterterm.lean
