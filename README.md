@@ -1,6 +1,6 @@
 # Yang-Mills Mass Gap: Formal Architecture and Analytic Proof
 
-[![Lean Full Build and Docs](https://github.com/yveslandry363-beep/Yang-Mils-Formalisation/actions/workflows/lean_action_ci.yml/badge.svg?branch=main)](https://github.com/yveslandry363-beep/Yang-Mils-Formalisation/actions/workflows/lean_action_ci.yml)
+[![Lean Full Build and Docs](https://github.com/submission-fmcad-2026/submission-fmcad-2026/actions/workflows/lean_action_ci.yml/badge.svg?branch=main)](https://github.com/submission-fmcad-2026/submission-fmcad-2026/actions/workflows/lean_action_ci.yml)
 
 This repository contains a Lean 4 formalization of the Yang-Mills mass gap architecture in dimension four. It is designed as a research-grade formal companion to the monograph *A Rigorous Non-Perturbative Formulation of Yang-Mills Theory and Proof of the Mass Gap* (402 pages).
 
@@ -140,7 +140,7 @@ Setup:
 
 Expected Pages base URL for this repository:
 
-https://yveslandry363-beep.github.io/Yang-Mils-Formalisation/
+https://github.com/submission-fmcad-2026/submission-fmcad-2026
 
 ## Notes for Reviewers and Auditors
 
