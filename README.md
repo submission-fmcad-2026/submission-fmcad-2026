@@ -4,7 +4,7 @@
 
 This repository contains a Lean 4 formalization of the Yang-Mills mass gap architecture in dimension four. It is designed as a research-grade formal companion to the monograph *A Rigorous Non-Perturbative Formulation of Yang-Mills Theory and Proof of the Mass Gap* (402 pages).
 
-Manuscript DOI: https://doi.org/10.6084/m9.figshare.31742362
+Full Analytical Manuscript: See [Yang_Mills_Mass_Gap_Monograph.pdf](./Yang_Mills_Mass_Gap_Monograph.pdf)
 
 The target is the Millennium Prize problem on the Yang-Mills mass gap. The repository is written as a complete formal architecture of that program, not as an introductory subset.
 
@@ -148,6 +148,6 @@ Recommended audit protocol:
 
 1. compile the project and verify that `Physics.yang_mills_mass_gap` builds,
 2. inspect interface contracts in `YangMills/Geometry/IntegralVarifold.lean` and `YangMills/Physics/MassGap.lean`,
-3. cross-check the analytic derivations in the manuscript at https://doi.org/10.6084/m9.figshare.31742362.
+3. cross-check the analytic derivations in the manuscript at [Yang_Mills_Mass_Gap_Monograph.pdf](./Yang_Mills_Mass_Gap_Monograph.pdf).
 
 This repository is written for theorem-level review, with explicit traceability between formal modules and analytic derivation layers.
