@@ -140,7 +140,7 @@ Setup:
 
 Expected Pages base URL for this repository:
 
-https://github.com/submission-fmcad-2026/submission-fmcad-2026
+https://submission-fmcad-2026.github.io/submission-fmcad-2026/
 
 ## Notes for Reviewers and Auditors
 
